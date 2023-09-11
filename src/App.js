@@ -1,7 +1,6 @@
 import "./App.css";
 import ProfilePicGenerator from "./ProfilePicGenerator";
 import React, { useState } from "react";
-import html2canvas from "html2canvas";
 
 function App() {
   const [name, setName] = useState("");
@@ -9,10 +8,6 @@ function App() {
   const handleNameChange = (e) => {
     setName(e.target.value);
     console.log("Name updated:", e.target.value);
-  };
-
-  const generateProfileImage = () => {
-    console.log("Generate profile image with name: ", name);
   };
 
   return (
