@@ -9,7 +9,11 @@
     "html2canvas": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-scripts": "^5.0.1",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> 045e2bc (Added entire project!!!!!!!!!!!!!!!!!!!!!! xD!)
     "web-vitals": "^2.1.4"
   },
   "scripts": {
