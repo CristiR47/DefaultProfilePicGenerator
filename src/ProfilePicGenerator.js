@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 // import html2Canvas from "html2canvas";
 
 class ProfilePicGenerator extends React.Component {
