@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>NPC Picture Generator</h1>
+      <h1>Default Picture Generator</h1>
       <input
         type="text"
         placeholder="Enter your name"
