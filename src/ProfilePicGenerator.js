@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 import React from "react";
-=======
-import React, { Component } from "react";
-// import html2Canvas from "html2canvas";
->>>>>>> 045e2bc (Added entire project!!!!!!!!!!!!!!!!!!!!!! xD!)
 
 class ProfilePicGenerator extends React.Component {
   constructor(props) {
